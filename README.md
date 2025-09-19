@@ -5,9 +5,15 @@
 
 [Untitled Training Camp (Discord)](https://s.id/utc_discord)
 
-[Sosialisasi Ekshibisi Lomba Kecerdasan Artifisial (AI) Jenjang Pendidikan Menengah](https://youtu.be/q1euPgRfXH8?si=dL5KA9e91zAN5nGl)
+## Rekaman Sosialisasi Daring & Technical Meeting
 
-[Technical Meeting & Uji Coba Ekshibisi Lomba Kecerdasan Artifisial (AI) Jenjang Pendidikan Menengah](https://www.youtube.com/live/oBD0ym-xQzM?si=PPrDy12uWtjZdJlM)
+Agenda: Sosialisasi Ekshibisi OSN 2025 dan Diskusi (tanya/jawab)
+
+Materi Sosialisasi: [Presentasi Sosialisasi](https://ioai.toki.id/assets/sosialisasi/Materi_Sosialisasi_Ekshibisi_AI_2025.pdf)
+
+Rekaman Sosialisasi (kanal Youtube Puspresnas): [Rekaman](https://youtu.be/q1euPgRfXH8?si=FeRWTh17WAi3GeQd)
+
+Rekaman Technical Meeting & Uji Coba (kanal Youtube Puspresnas): [Rekaman](https://www.youtube.com/live/oBD0ym-xQzM?si=wBtAShaA82jI7NTU)
 
 ## Silabus Ekshibisi
 Silabus materi yang diujikan pada Ekshibisi ini merupakan bagian (subset) dari [silabus lengkap IOAI](https://ioai.toki.id/silabus.html). Lebih spesifik, silabus pada Ekshibisi ini akan dibatasi hanya untuk mencakup topik-topik berikut:
