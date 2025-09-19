@@ -4,6 +4,9 @@ https://ioai.toki.id/ekshibisi.html
 Sosialisasi Ekshibisi Lomba Kecerdasan Artifisial (AI) Jenjang Pendidikan Menengah
 https://youtu.be/q1euPgRfXH8?si=dL5KA9e91zAN5nGl
 
+Technical Meeting & Uji Coba Ekshibisi Lomba Kecerdasan Artifisial (AI) Jenjang Pendidikan Menengah
+https://www.youtube.com/live/oBD0ym-xQzM?si=PPrDy12uWtjZdJlM
+
 Bahas Contoh Soal Ekshibisi Olimpiade AI 2025
 https://www.youtube.com/live/e7vebJxQg1o?si=8UvdkVegLsvBctuc
 
