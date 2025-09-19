@@ -9,3 +9,12 @@ https://www.youtube.com/live/e7vebJxQg1o?si=8UvdkVegLsvBctuc
 
 Untitled Training Camp (Discord)
 https://s.id/utc_discord
+
+Course Pemrograman Dasar dengan C++
+https://tlx.toki.id/courses/basic-cpp
+
+Course Pemrograman Kompetitif Dasar
+https://tlx.toki.id/courses/competitive-1
+
+Course Pemrograman Kompetitif Lanjutan
+https://tlx.toki.id/courses/competitive-2
