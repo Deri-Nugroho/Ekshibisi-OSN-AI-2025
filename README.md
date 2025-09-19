@@ -21,3 +21,6 @@ https://tlx.toki.id/courses/competitive-1
 
 Course Pemrograman Kompetitif Lanjutan
 https://tlx.toki.id/courses/competitive-2
+
+IOAI - Educational Resources
+https://docs.google.com/spreadsheets/d/15f4VzUCXrqz2m6hjilVkJVE2YFhjzKeOdY-5PVB2sds/edit?usp=sharing
