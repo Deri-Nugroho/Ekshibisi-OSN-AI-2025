@@ -5,9 +5,7 @@
 
 [Untitled Training Camp (Discord)](https://s.id/utc_discord)
 
-## Rekaman Sosialisasi Daring & Technical Meeting
-
-Agenda: Sosialisasi Ekshibisi OSN 2025 dan Diskusi (tanya/jawab)
+## Sosialisasi Daring & Technical Meeting
 
 Materi Sosialisasi: [Presentasi Sosialisasi](https://ioai.toki.id/assets/sosialisasi/Materi_Sosialisasi_Ekshibisi_AI_2025.pdf)
 
@@ -84,3 +82,4 @@ Pada babak final Ekshibisi (on-site), selain soal esai/cerita, mungkin akan ada 
 [Course Pemrograman Kompetitif Lanjutan](https://tlx.toki.id/courses/competitive-2)
 
 [IOAI - Educational Resources](https://docs.google.com/spreadsheets/d/15f4VzUCXrqz2m6hjilVkJVE2YFhjzKeOdY-5PVB2sds/edit?usp=sharing)
+
